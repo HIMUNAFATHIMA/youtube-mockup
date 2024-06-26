@@ -15,7 +15,7 @@ A simple web page layout that mimics the design of YouTube using HTML and CSS. T
 - CSS: Styling of the web page, including layout, positioning, and responsiveness.
 - Google Fonts: Custom fonts from Google Fonts.
 
-  file structure
+ File structure
   
 youtube-mockup/
 ├── images/
